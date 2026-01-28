@@ -1,8 +1,7 @@
 <table>
   <tr>
     <td width="70%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolat&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=180&lines=Konichiwa!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%0A;I+am+Altina" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolat&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=180&lines=Konichiwa!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%0A;I+am+Altina" width="100%" />
 
   </td>
   <td width="30%" align="center">
