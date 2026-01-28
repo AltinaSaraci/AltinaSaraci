@@ -1,4 +1,4 @@
-## Hi there 👋
+https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=500&color=D8CFC4&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+Altina
 
 <!--
 **AltinaSaraci/AltinaSaraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
