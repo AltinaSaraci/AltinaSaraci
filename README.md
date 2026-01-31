@@ -13,10 +13,10 @@
 </table>
 
 <p align="center">
-Hi, I’m Altina, an aspiring full-stack developer from Kosovo.
-I’m focused on learning how web applications work from front to back and building things step by step.
-
-I enjoy challenges... especially the ones that push me to think differently. Math is one of them.
+  Hi, I’m <strong>Altina</strong> — an aspiring <strong>full-stack developer</strong> from Kosovo.<br/>
+  I’m focused on learning how web applications work end-to-end and building things step by step.<br/><br/>
+  I enjoy challenges, especially the ones that push me to think differently.<br/>
+  Math is one of them.
 </p>
 <!--
 **AltinaSaraci/AltinaSaraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
