@@ -13,7 +13,7 @@
 </table>
 
 <p align="center">
-  Hi, I’m <strong>Altina</strong> — an aspiring <strong>full-stack developer</strong> from Kosovo.<br/>
+  Hi, I’m <strong>Altina</strong>, an aspiring <strong>full-stack developer</strong> from Kosovo.<br/>
   I’m focused on learning how web applications work end-to-end and building things step by step.<br/><br/>
   I enjoy challenges, especially the ones that push me to think differently.<br/>
   Math is one of them.
