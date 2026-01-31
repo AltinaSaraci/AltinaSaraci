@@ -16,7 +16,7 @@
 Hi, I’m Altina, an aspiring full-stack developer from Kosovo.
 I’m focused on learning how web applications work from front to back and building things step by step.
 
-I enjoy challenges — especially the ones that push me to think differently. Math is one of them.
+I enjoy challenges... especially the ones that push me to think differently. Math is one of them. On
 <!--
 **AltinaSaraci/AltinaSaraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
